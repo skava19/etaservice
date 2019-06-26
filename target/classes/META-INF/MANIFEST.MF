@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ETA demo service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dwl
+Implementation-Vendor-Id: com.skava.demo
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/etaservice
+Created-By: Maven Integration for Eclipse
+
